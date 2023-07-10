@@ -23,8 +23,8 @@ global.lApiKey = {// if this API key get expired then please go to https://api.l
 
 
 global.botname = "Queen Anya" 
-global.author = "Enter Author Name Here"  
-global.packname = "𝙌𝙐𝙀𝙀𝙉✯𝘼𝙉𝙔𝘼✯𝘽𝙊𝙏"  
+global.author = "Sameer king"  
+global.packname = "𝙌𝙐𝙀𝙀𝙉✯𝐀𝐐𝐒𝐀"  
 global.myweb = "Enter Your Any Website Profile Link Here"
 global.footer = "©\t" + "Enter Your Watermark Here"
 global.prefa = ['-'] // single prefix
@@ -35,12 +35,12 @@ global.socialLink = `*⪧⪢ https://chat.whatsapp.com/HshHS6kHF9NHnA9lfMwwSM �
 
 global.ownername = "Enter Owner Name Here"    
 global.ownernumber = ["923046466965"]
-global.ytname = "YT: Enter Your Channel Name Here"
+global.ytname = "YT: https://youtube.com/@user-hn8iz7pv1x"
 global.continent = "Asia" // your continent name 
-global.region = "Enter Your Country Name Here"
-global.state = "Enter Your State Name Here" // your state name
+global.region = "Pakistani"
+global.state = "bahawalnger" // your state name
 global.timezone = "Asia/Kolkata" // search on google if you don't know the timezone of your country //
-global.instagramId = "Enter Your Insta ID Here"
+global.instagramId = "https://youtube.com/@user-hn8iz7pv1x"
 global.email = "Enter Your Email ID Here"
 
 
